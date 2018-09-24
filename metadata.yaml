@@ -1,0 +1,33 @@
+_repo: Goodbird-the-Indian-His-Story_56349
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilson, F. N. (Frederick N.)
+    alias: Wilson, Frederick N.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '33977'
+    url: http://www.gutenberg.org/2009/agents/33977
+creator:
+  authors:
+  - agent_name: Goodbird, Edward
+    gutenberg_agent_id: '48794'
+    url: http://www.gutenberg.org/2009/agents/48794
+  - agent_name: Wilson, Gilbert L.
+    gutenberg_agent_id: '48795'
+    url: http://www.gutenberg.org/2009/agents/48795
+description: ''
+gutenberg_issued: '2018-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Goodbird the Indian
+
+  His Story'
+url: http://www.gutenberg.org/ebooks/56349
